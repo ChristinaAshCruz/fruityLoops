@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body {
+	background-color: #f9f5ed;
+}
+
+h1 {
+  color: #6d8235;
+}
+th {
+  color: #6d8235;
+}
+tbody {
+  color: #6d8235;
+}
